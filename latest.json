@@ -1,11 +1,12 @@
 {
-    "version":  "1.7.0",
-    "versionCode":  12,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.7.0/chess4u-v1.7.0.apk",
-    "sha256":  "767efdf41c8abb077017e07efae4b15d472c23aa38bc241339f6bfe4fc31e4c7",
+    "version":  "1.8.0",
+    "versionCode":  13,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.8.0/chess4u-v1.8.0.apk",
+    "sha256":  "2e32ebe4d767038a44dffc6ea857c8b42983735360e6494f12d007b350a06017",
     "changelog":  [
-                      "Updates are now about 6 MB instead of 84 MB",
-                      "Same Stockfish strength: the engine brain stays on your phone between updates"
+                      "Analysis: all draws are detected (stalemate, repetition, not enough pieces, 50 moves)",
+                      "New promotion picker with the recommended piece",
+                      "Analysis screen no longer jumps after each move; best move shown in plain words"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-14"
