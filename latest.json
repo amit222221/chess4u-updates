@@ -1,12 +1,12 @@
 {
-    "version":  "1.4.0",
-    "versionCode":  9,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.4.0/chess4u-v1.4.0.apk",
-    "sha256":  "818ec9c5ef6b04341f72753d91065e6e371214d20a25d8828e9ba5b1d960d047",
+    "version":  "1.5.0",
+    "versionCode":  10,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.5.0/chess4u-v1.5.0.apk",
+    "sha256":  "f1ae2c36f1643d04aaae78f5dfb98ddd4a38c544b4185d0ea5b07771ed1afdd1",
     "changelog":  [
-                      "Premoves: red premove squares are ignored until the move really happens",
-                      "Recovery: if very fast moves are missed, recording picks the game up again",
-                      "Games with missed moves are reviewed in parts"
+                      "About 30 screen pictures per second",
+                      "Up to 6 moves read from one picture (premove chains of both players, pawn races)",
+                      "Premove squares ignored until the move happens; recovery if moves are missed"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-14"
