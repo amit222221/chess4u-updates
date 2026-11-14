@@ -1,12 +1,12 @@
 {
-    "version":  "1.9.0",
-    "versionCode":  14,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.9.0/chess4u-v1.9.0.apk",
-    "sha256":  "78e0c9653e999b338daaf39d6d286288e21198cc8d588de12b8cc2db17dcdecb",
+    "version":  "1.10.0",
+    "versionCode":  15,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.0/chess4u-v1.10.0.apk",
+    "sha256":  "a8d78c873561474b2097e44fcdee9e7d00e37e252570de43dcbbb667093ae1b3",
     "changelog":  [
-                      "New: LIVE HELP - best-move hints with green arrow for private games and training",
-                      "Honest search status (depth and stability), START/STOP analysis, Live Help settings",
-                      "Board photo via camera app, lighter engine profile for 3 GB phones"
+                      "New: Screen Live Help - real-time screen analysis of Chess.com bot games with a green best-move arrow",
+                      "FINDING GAME / GAME FOUND status over the game, updates after every move",
+                      "Hidden private test-update channel (About - tap the version 7 times)"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
