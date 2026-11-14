@@ -1,12 +1,11 @@
 {
-    "version":  "1.10.0",
-    "versionCode":  15,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.0/chess4u-v1.10.0.apk",
-    "sha256":  "a8d78c873561474b2097e44fcdee9e7d00e37e252570de43dcbbb667093ae1b3",
+    "version":  "1.10.1",
+    "versionCode":  16,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.1/chess4u-v1.10.1.apk",
+    "sha256":  "7f230e6af946f3983743ea9d24b30d05e7cf714d2304fb0cd7ce394c16b7930d",
     "changelog":  [
-                      "New: Screen Live Help - real-time screen analysis of Chess.com bot games with a green best-move arrow",
-                      "FINDING GAME / GAME FOUND status over the game, updates after every move",
-                      "Hidden private test-update channel (About - tap the version 7 times)"
+                      "Fix: bot games are now recognized in every Chess.com language (Hebrew included) - Hint icon check",
+                      "Fix: no more false NOT A BOT GAME message"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
