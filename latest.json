@@ -1,13 +1,13 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/amit222221/chess4u-updates/releases/download/v1.2.0/chess4u-v1.2.0.apk",
-  "sha256": "3a87f3dc543306d9b39fdd4aecc19837f43f497bfe42b375d5e055fabeffc6ea",
-  "changelog": [
-    "Screen share game recording with a full summary after the game",
-    "Decisive analysis: one final move after about 5 seconds",
-    "Automatic update popup"
-  ],
-  "minimumSupportedVersion": 1,
-  "releaseDate": "2026-11-14"
+    "version":  "1.2.1",
+    "versionCode":  4,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.2.1/chess4u-v1.2.1.apk",
+    "sha256":  "086ee72f3017d25f4ff4cfe0995afa0b5213dd79c2810b44003ca9ad62bf4ec9",
+    "changelog":  [
+                      "Battle log: your recorded games from the last 3 days",
+                      "Screen share keeps running when the phone tries to close CHESS4U",
+                      "Games are saved after every move"
+                  ],
+    "minimumSupportedVersion":  1,
+    "releaseDate":  "2026-11-14"
 }
