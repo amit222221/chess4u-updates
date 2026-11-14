@@ -1,12 +1,12 @@
 {
-    "version":  "1.2.2",
-    "versionCode":  5,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.2.2/chess4u-v1.2.2.apk",
-    "sha256":  "1801ca3d611d5cac10bd12383212d895cc9187a7f4b15d521f9e9103a9fdc2e1",
+    "version":  "1.3.0",
+    "versionCode":  6,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.3.0/chess4u-v1.3.0.apk",
+    "sha256":  "5cb9da58b1debebbdc808c185c03d43088cca016a6fa3c09160b3eae1e467a24",
     "changelog":  [
-                      "After STOP you always get the summary, or an explanation of why nothing was recorded",
-                      "Updates appear right away",
-                      "Battle log: your recorded games from the last 3 days"
+                      "Fixed: moves on chess.com are now recorded (yellow move highlights no longer confuse the board reader)",
+                      "After the first game, recording can start in the middle of a game",
+                      "After STOP you always get the summary, or an explanation"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-14"
