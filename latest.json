@@ -1,12 +1,12 @@
 {
-    "version":  "1.5.0",
-    "versionCode":  10,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.5.0/chess4u-v1.5.0.apk",
-    "sha256":  "f1ae2c36f1643d04aaae78f5dfb98ddd4a38c544b4185d0ea5b07771ed1afdd1",
+    "version":  "1.6.0",
+    "versionCode":  11,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.6.0/chess4u-v1.6.0.apk",
+    "sha256":  "68af9495ca65c97aaf957aab27c3badd794e7370369d5adfd9c93211d8ab082e",
     "changelog":  [
-                      "About 30 screen pictures per second",
-                      "Up to 6 moves read from one picture (premove chains of both players, pawn races)",
-                      "Premove squares ignored until the move happens; recovery if moves are missed"
+                      "New design: home screen, battle log and game review",
+                      "Moves in plain words, e.g. Bishop from b5 to c6, takes the knight",
+                      "Accuracy rings and a move-by-move card with the better move"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-14"
