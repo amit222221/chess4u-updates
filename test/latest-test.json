@@ -1,0 +1,12 @@
+{
+    "version":  "1.10.0",
+    "versionCode":  15,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.0-test/chess4u-v1.10.0-test.apk",
+    "sha256":  "a8d78c873561474b2097e44fcdee9e7d00e37e252570de43dcbbb667093ae1b3",
+    "changelog":  [
+                      "TEST: Screen Live Help - real-time screen analysis with green arrow (Chess.com bot games only)",
+                      "TEST: hidden private test-update channel (About - tap version 7 times)"
+                  ],
+    "minimumSupportedVersion":  1,
+    "releaseDate":  "2026-11-15"
+}
