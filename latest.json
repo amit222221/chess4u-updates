@@ -1,13 +1,13 @@
 {
-    "version":  "1.8.0",
-    "versionCode":  13,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.8.0/chess4u-v1.8.0.apk",
-    "sha256":  "2e32ebe4d767038a44dffc6ea857c8b42983735360e6494f12d007b350a06017",
+    "version":  "1.9.0",
+    "versionCode":  14,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.9.0/chess4u-v1.9.0.apk",
+    "sha256":  "78e0c9653e999b338daaf39d6d286288e21198cc8d588de12b8cc2db17dcdecb",
     "changelog":  [
-                      "Analysis: all draws are detected (stalemate, repetition, not enough pieces, 50 moves)",
-                      "New promotion picker with the recommended piece",
-                      "Analysis screen no longer jumps after each move; best move shown in plain words"
+                      "New: LIVE HELP - best-move hints with green arrow for private games and training",
+                      "Honest search status (depth and stability), START/STOP analysis, Live Help settings",
+                      "Board photo via camera app, lighter engine profile for 3 GB phones"
                   ],
     "minimumSupportedVersion":  1,
-    "releaseDate":  "2026-11-14"
+    "releaseDate":  "2026-11-15"
 }
