@@ -1,12 +1,11 @@
 {
-    "version":  "1.10.2",
-    "versionCode":  17,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.2/chess4u-v1.10.2.apk",
-    "sha256":  "eecf88c13237c8107f342200c74885708ee2251dea503abe4aeb63562deb6ff4",
+    "version":  "1.10.3",
+    "versionCode":  18,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.3/chess4u-v1.10.3.apk",
+    "sha256":  "d0b003719989a6ecef9ab0d71871bd7d2fa235b3758a7e38b5b1a60aed6228f1",
     "changelog":  [
-                      "New: Brilliant hunting (!!) - sound sacrifices as good as the best move, turquoise arrow",
-                      "Fix: chess.com move dots and capture rings no longer confuse board recognition",
-                      "Promotion: clear PROMOTE TO QUEEN/ROOK/BISHOP/KNIGHT text and badge on the target square"
+                      "Decisive recommendations: the arrow appears only when the engine has finished thinking and never changes",
+                      "Brilliant badge: turquoise !! on the piece after you play a brilliant move"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
