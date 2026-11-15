@@ -1,12 +1,12 @@
 {
-    "version":  "1.14.1",
-    "versionCode":  30,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.1/chess4u-v1.14.1.apk",
-    "sha256":  "dadcac73431c16f67d84bc56e5b8022408855e8e1697a84a26a8cba9b9075346",
+    "version":  "1.14.2",
+    "versionCode":  31,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.2/chess4u-v1.14.2.apk",
+    "sha256":  "072557bf87ef384637051a9220423dc593764f5c20bd2ebe010cd33d9cb26a68",
     "changelog":  [
-                      "BLIND box is much lower so it no longer covers the board",
-                      "Picking letters and numbers moves on instantly",
-                      "BLIND thinks at most 3 seconds per move (3-5 in Settings)"
+                      "BLIND never guesses where a piece was - you always pick it",
+                      "What you tap always wins: if BLIND remembered the board wrong, it fixes its memory",
+                      "All buttons are open, nothing is dimmed"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
