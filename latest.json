@@ -1,13 +1,10 @@
 {
-    "version":  "1.12.0",
-    "versionCode":  22,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.12.0/chess4u-v1.12.0.apk",
-    "sha256":  "5904b914ae386012f835fb8a868f87fa5c8f8446c0578e4741cf8c8bed5e1e18",
+    "version":  "1.12.1",
+    "versionCode":  23,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.12.1/chess4u-v1.12.1.apk",
+    "sha256":  "df76450ebbb338bf7a9ff36bea0bb853a7bc76e87b571b62098b7ad9909aaccc",
     "changelog":  [
-                      "Live Help: a game counts as a bot game only with a ...Bot opponent name (e.g. StartersBot) or the Hint icon",
-                      "Live Help: the YOU: AUTO / WHITE / BLACK button was removed - your colour is read from the board",
-                      "Live Help: clear red CANCEL button under FINDING GAME",
-                      "Live Help: must be started before the game - it no longer joins a game already in progress"
+                      "Live Help: only the player name BELOW the board is checked - it must end in Bot (e.g. StartersBot); your own name above the board can be anything"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
