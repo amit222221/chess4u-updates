@@ -1,11 +1,12 @@
 {
-    "version":  "1.14.4",
-    "versionCode":  33,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.4/chess4u-v1.14.4.apk",
-    "sha256":  "de85d0f2765ec1d3afc8be60273bcffba7780f64b453dcad2fed07812f37293e",
+    "version":  "1.15.0",
+    "versionCode":  34,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.15.0/chess4u-v1.15.0.apk",
+    "sha256":  "50eb6050db1b5d72f2a7d4d63c27cc028804b5539763cf973a399aaf545cba81",
     "changelog":  [
-                      "BLIND: when you can checkmate in 1, it now shows the mating move",
-                      "Same for any move that ends the game"
+                      "BLIND GRID: put a grid on the board once, then tap the opponent\u0027s 2 yellow squares - no more letters and numbers",
+                      "The move to play is framed in green right on the board",
+                      "ABC button switches back to the letter/number buttons any time"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
