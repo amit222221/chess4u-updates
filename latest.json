@@ -1,12 +1,11 @@
 {
-    "version":  "1.14.3",
-    "versionCode":  32,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.3/chess4u-v1.14.3.apk",
-    "sha256":  "86fb0dabfa7fd6bd12ddf891a2efbfca2321189202c4b408f9416be7636a3c05",
+    "version":  "1.14.4",
+    "versionCode":  33,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.4/chess4u-v1.14.4.apk",
+    "sha256":  "de85d0f2765ec1d3afc8be60273bcffba7780f64b453dcad2fed07812f37293e",
     "changelog":  [
-                      "BLIND knows the whole game: no more endless check-repeat draws when you are winning",
-                      "When you are losing, BLIND can steer to a repetition draw to save the game",
-                      "Draw rules (50 moves, repetition, stalemate) are taken into account"
+                      "BLIND: when you can checkmate in 1, it now shows the mating move",
+                      "Same for any move that ends the game"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
