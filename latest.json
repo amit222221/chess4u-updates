@@ -1,12 +1,10 @@
 {
-    "version":  "1.15.0",
-    "versionCode":  34,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.15.0/chess4u-v1.15.0.apk",
-    "sha256":  "50eb6050db1b5d72f2a7d4d63c27cc028804b5539763cf973a399aaf545cba81",
+    "version":  "1.15.1",
+    "versionCode":  35,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.15.1/chess4u-v1.15.1.apk",
+    "sha256":  "ddbffd0c782d81884a8c61a42110f704c9cef52d940a0d20d7efc381c581fc7f",
     "changelog":  [
-                      "BLIND GRID: put a grid on the board once, then tap the opponent\u0027s 2 yellow squares - no more letters and numbers",
-                      "The move to play is framed in green right on the board",
-                      "ABC button switches back to the letter/number buttons any time"
+                      "BLIND thinking time can now be 1, 2, 3, 4 or 5 seconds (Settings)"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
