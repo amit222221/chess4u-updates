@@ -1,12 +1,12 @@
 {
-    "version":  "1.13.0",
-    "versionCode":  26,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.13.0/chess4u-v1.13.0.apk",
-    "sha256":  "f53f366760a3203ff38233f9e4925ae38b7f05956d3fe13bf37c505008986aff",
+    "version":  "1.13.1",
+    "versionCode":  27,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.13.1/chess4u-v1.13.1.apk",
+    "sha256":  "12fb2ab4ca9b12228a1ed198cea0623af98b7fc918e2e0182eb69c9b4c2de59b",
     "changelog":  [
-                      "New BLIND mode: START SEARCHING GAME now offers VS BOTS or BLIND",
-                      "BLIND: a chat asks for the opponent's move (e.g. ROOK E6,E8) and answers MOVE KNIGHT G1,F3",
-                      "Sounds for buttons (can be turned off in Settings)"
+                      "BLIND now plays on top of the game: a box at the bottom asks his move and shows YOU SHOULD PLAY",
+                      "Top bubble shows BLIND MODE IS PLAYING; BLIND ends only with STOP in CHESS4U",
+                      "Piece shortcuts, UNDO and 'played other?' in the BLIND box"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
