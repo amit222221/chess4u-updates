@@ -1,11 +1,11 @@
 {
-    "version":  "1.10.3",
-    "versionCode":  18,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.3/chess4u-v1.10.3.apk",
-    "sha256":  "d0b003719989a6ecef9ab0d71871bd7d2fa235b3758a7e38b5b1a60aed6228f1",
+    "version":  "1.10.4",
+    "versionCode":  19,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.4/chess4u-v1.10.4.apk",
+    "sha256":  "090deea2e4e10ceb794985157c755b9d0fc9a4f37b65ca63c212e35078f1ce94",
     "changelog":  [
-                      "Decisive recommendations: the arrow appears only when the engine has finished thinking and never changes",
-                      "Brilliant badge: turquoise !! on the piece after you play a brilliant move"
+                      "Live Help: bot games are recognized by the opponent\u0027s name (StartersBot and other Chess.com bots) - no Hint button needed",
+                      "Live Help: if the bot cannot be confirmed, a message is shown and Live Help stays off"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
