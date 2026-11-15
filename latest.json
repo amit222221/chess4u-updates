@@ -1,12 +1,12 @@
 {
-    "version":  "1.14.2",
-    "versionCode":  31,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.2/chess4u-v1.14.2.apk",
-    "sha256":  "072557bf87ef384637051a9220423dc593764f5c20bd2ebe010cd33d9cb26a68",
+    "version":  "1.14.3",
+    "versionCode":  32,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.3/chess4u-v1.14.3.apk",
+    "sha256":  "86fb0dabfa7fd6bd12ddf891a2efbfca2321189202c4b408f9416be7636a3c05",
     "changelog":  [
-                      "BLIND never guesses where a piece was - you always pick it",
-                      "What you tap always wins: if BLIND remembered the board wrong, it fixes its memory",
-                      "All buttons are open, nothing is dimmed"
+                      "BLIND knows the whole game: no more endless check-repeat draws when you are winning",
+                      "When you are losing, BLIND can steer to a repetition draw to save the game",
+                      "Draw rules (50 moves, repetition, stalemate) are taken into account"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
