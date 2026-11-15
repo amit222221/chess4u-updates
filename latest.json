@@ -1,11 +1,10 @@
 {
-    "version":  "1.12.2",
-    "versionCode":  24,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.12.2/chess4u-v1.12.2.apk",
-    "sha256":  "4e27e772aed96ace4822bce1a39aab15944440143c89c9535c409c7135ded479",
+    "version":  "1.12.3",
+    "versionCode":  25,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.12.3/chess4u-v1.12.3.apk",
+    "sha256":  "4dbda0c902acd0933585c1d2f30662d892e872a5c0f75f8d1fb4fd15a2c4148e",
     "changelog":  [
-                      "Live Help: fixed FINDING GAME that never ended when you play Black - the bot\u0027s instant first move no longer blocks finding the game",
-                      "Live Help still needs a new game: it starts from the opening position or right after White\u0027s first move, never later"
+                      "Live Help: more detailed log while searching for a game (to fix FINDING GAME that does not end)"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
