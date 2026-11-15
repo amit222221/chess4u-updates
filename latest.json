@@ -1,12 +1,12 @@
 {
-    "version":  "1.13.1",
-    "versionCode":  27,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.13.1/chess4u-v1.13.1.apk",
-    "sha256":  "12fb2ab4ca9b12228a1ed198cea0623af98b7fc918e2e0182eb69c9b4c2de59b",
+    "version":  "1.13.2",
+    "versionCode":  28,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.13.2/chess4u-v1.13.2.apk",
+    "sha256":  "72c7bad2e265e613bc786502dc6f0f31ca4c693c13a302db58f8560070ab0bc4",
     "changelog":  [
-                      "BLIND now plays on top of the game: a box at the bottom asks his move and shows YOU SHOULD PLAY",
-                      "Top bubble shows BLIND MODE IS PLAYING; BLIND ends only with STOP in CHESS4U",
-                      "Piece shortcuts, UNDO and 'played other?' in the BLIND box"
+                      "BLIND box is much smaller and can be dragged up or down so it doesn't hide the board",
+                      "Fixed: tapping the field in the BLIND box now opens the keyboard",
+                      "CANCEL button in the bubble ends BLIND"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
