@@ -1,11 +1,10 @@
 {
-    "version":  "1.10.4",
-    "versionCode":  19,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.4/chess4u-v1.10.4.apk",
-    "sha256":  "090deea2e4e10ceb794985157c755b9d0fc9a4f37b65ca63c212e35078f1ce94",
+    "version":  "1.10.5",
+    "versionCode":  20,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.5/chess4u-v1.10.5.apk",
+    "sha256":  "5ec5566732b4065c461b81a2cfd04f3de18593f2b6b94d40f54bb802ffe07212",
     "changelog":  [
-                      "Live Help: bot games are recognized by the opponent\u0027s name (StartersBot and other Chess.com bots) - no Hint button needed",
-                      "Live Help: if the bot cannot be confirmed, a message is shown and Live Help stays off"
+                      "Live Help: the bot is recognized also when its name is shown below the board (swapped names)"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
