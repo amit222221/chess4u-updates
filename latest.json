@@ -1,11 +1,12 @@
 {
-    "version":  "1.10.1",
-    "versionCode":  16,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.1/chess4u-v1.10.1.apk",
-    "sha256":  "7f230e6af946f3983743ea9d24b30d05e7cf714d2304fb0cd7ce394c16b7930d",
+    "version":  "1.10.2",
+    "versionCode":  17,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.10.2/chess4u-v1.10.2.apk",
+    "sha256":  "eecf88c13237c8107f342200c74885708ee2251dea503abe4aeb63562deb6ff4",
     "changelog":  [
-                      "Fix: bot games are now recognized in every Chess.com language (Hebrew included) - Hint icon check",
-                      "Fix: no more false NOT A BOT GAME message"
+                      "New: Brilliant hunting (!!) - sound sacrifices as good as the best move, turquoise arrow",
+                      "Fix: chess.com move dots and capture rings no longer confuse board recognition",
+                      "Promotion: clear PROMOTE TO QUEEN/ROOK/BISHOP/KNIGHT text and badge on the target square"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
