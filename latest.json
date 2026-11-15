@@ -1,12 +1,12 @@
 {
-    "version":  "1.13.2",
-    "versionCode":  28,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.13.2/chess4u-v1.13.2.apk",
-    "sha256":  "72c7bad2e265e613bc786502dc6f0f31ca4c693c13a302db58f8560070ab0bc4",
+    "version":  "1.14.0",
+    "versionCode":  29,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.14.0/chess4u-v1.14.0.apk",
+    "sha256":  "32c00c3fa932236ee9cc4c38fd33806f1bad2fc123eb32aa35b53a6a2d6db85a",
     "changelog":  [
-                      "BLIND box is much smaller and can be dragged up or down so it doesn't hide the board",
-                      "Fixed: tapping the field in the BLIND box now opens the keyboard",
-                      "CANCEL button in the bubble ends BLIND"
+                      "BLIND: no more typing - tap the piece, where it was and where it went",
+                      "Chosen buttons turn green; impossible ones are dimmed",
+                      "The move to play is shown big: YOU SHOULD MOVE"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-15"
