@@ -1,11 +1,13 @@
 {
-    "version":  "1.15.1",
-    "versionCode":  35,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.15.1/chess4u-v1.15.1.apk",
-    "sha256":  "ddbffd0c782d81884a8c61a42110f704c9cef52d940a0d20d7efc381c581fc7f",
+    "version":  "1.16.0",
+    "versionCode":  36,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.16.0/chess4u-v1.16.0.apk",
+    "sha256":  "bfd60f6d74f7527b19567026704b9aefb5f1b4883dc5b916305da5e0ba8aa7dc",
     "changelog":  [
-                      "BLIND thinking time can now be 1, 2, 3, 4 or 5 seconds (Settings)"
+                      "ANGRY MODE switch under CANCEL in BLIND: sharper, more forcing moves and the fastest mates - same thinking time",
+                      "The move to play is now a pulsing green arrow with filled squares on the board",
+                      "BLIND is grid only (ABC buttons removed)"
                   ],
     "minimumSupportedVersion":  1,
-    "releaseDate":  "2026-11-15"
+    "releaseDate":  "2026-11-16"
 }
