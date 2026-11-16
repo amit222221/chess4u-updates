@@ -1,13 +1,11 @@
 {
-    "version":  "1.17.1",
-    "versionCode":  38,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.1/chess4u-v1.17.1.apk",
-    "sha256":  "ebc7bbab3c667dd8a2f1e3ad32a19cc9fd07c306b97ff8b27516b1708a062db7",
+    "version":  "1.17.2",
+    "versionCode":  39,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.2/chess4u-v1.17.2.apk",
+    "sha256":  "c2cc76e260b40723780ba60c4cd404c0d2156265218db0cc35c8f03728ee224f",
     "changelog":  [
-                      "BLIND TOUCH: simpler start - it asks \u0027Are you playing against the computer in Chess for Android now?\u0027 with YES / CANCEL (asked again every new game)",
-                      "BLIND TOUCH: removed the \u0027Chess for Android not installed\u0027 check and the on-screen text scan",
-                      "BLIND TOUCH still taps only while Chess for Android is the app in front; if another app is in front, the box shows which one",
-                      "BLIND is unchanged"
+                      "תיאור השינוי הראשון",
+                      "תיאור השינוי השני"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-16"
