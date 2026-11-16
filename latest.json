@@ -1,12 +1,14 @@
 {
-    "version":  "1.16.0",
-    "versionCode":  36,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.16.0/chess4u-v1.16.0.apk",
-    "sha256":  "bfd60f6d74f7527b19567026704b9aefb5f1b4883dc5b916305da5e0ba8aa7dc",
+    "version":  "1.17.0",
+    "versionCode":  37,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.0/chess4u-v1.17.0.apk",
+    "sha256":  "7e21d46515e4bdf6b4ff4bce6f4c3a929c3f3ff38cc435674a091cdad257375a",
     "changelog":  [
-                      "ANGRY MODE switch under CANCEL in BLIND: sharper, more forcing moves and the fastest mates - same thinking time",
-                      "The move to play is now a pulsing green arrow with filled squares on the board",
-                      "BLIND is grid only (ABC buttons removed)"
+                      "NEW: BLIND TOUCH - a separate mode next to BLIND: after you enter the opponent\u0027s move, it plays Stockfish\u0027s move for you with two taps",
+                      "BLIND TOUCH works only in Chess for Android (com.google.android.chess), only in a local game against the computer; it checks the app and the board before every tap and stops on any doubt",
+                      "Settings: BLIND TOUCH delay before the first tap - 0.5, 1, 1.5, 2, 2.5 or 3 seconds",
+                      "BLIND TOUCH needs Accessibility: Settings \u003e Accessibility \u003e CHESS4U BLIND TOUCH (Android only)",
+                      "BLIND is unchanged"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-16"
