@@ -1,10 +1,11 @@
 {
-    "version":  "1.17.5",
-    "versionCode":  42,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.5/chess4u-v1.17.5.apk",
-    "sha256":  "a50ebf99adcc615ffc1a762b2ca99a6401f11cd4d9ced8160e1d9d35066e12c3",
+    "version":  "1.17.6",
+    "versionCode":  43,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.6/chess4u-v1.17.6.apk",
+    "sha256":  "da012880110f3c9eb29893edf66a22ba906dcb908352a4ec27a81d86f3ff2c0c",
     "changelog":  [
-                      "תיקון זיהוי הגריד ב-BLIND TOUCH"
+                      "תיאור השינוי הראשון",
+                      "תיאור השינוי השני"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-16"
