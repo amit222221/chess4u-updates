@@ -1,13 +1,12 @@
 {
-    "version":  "1.17.0",
-    "versionCode":  37,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.0/chess4u-v1.17.0.apk",
-    "sha256":  "7e21d46515e4bdf6b4ff4bce6f4c3a929c3f3ff38cc435674a091cdad257375a",
+    "version":  "1.17.1",
+    "versionCode":  38,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.1/chess4u-v1.17.1.apk",
+    "sha256":  "ebc7bbab3c667dd8a2f1e3ad32a19cc9fd07c306b97ff8b27516b1708a062db7",
     "changelog":  [
-                      "NEW: BLIND TOUCH - a separate mode next to BLIND: after you enter the opponent\u0027s move, it plays Stockfish\u0027s move for you with two taps",
-                      "BLIND TOUCH works only in Chess for Android (com.google.android.chess), only in a local game against the computer; it checks the app and the board before every tap and stops on any doubt",
-                      "Settings: BLIND TOUCH delay before the first tap - 0.5, 1, 1.5, 2, 2.5 or 3 seconds",
-                      "BLIND TOUCH needs Accessibility: Settings \u003e Accessibility \u003e CHESS4U BLIND TOUCH (Android only)",
+                      "BLIND TOUCH: simpler start - it asks \u0027Are you playing against the computer in Chess for Android now?\u0027 with YES / CANCEL (asked again every new game)",
+                      "BLIND TOUCH: removed the \u0027Chess for Android not installed\u0027 check and the on-screen text scan",
+                      "BLIND TOUCH still taps only while Chess for Android is the app in front; if another app is in front, the box shows which one",
                       "BLIND is unchanged"
                   ],
     "minimumSupportedVersion":  1,
