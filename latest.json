@@ -1,12 +1,12 @@
 {
-    "version":  "1.17.8",
-    "versionCode":  45,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.8/chess4u-v1.17.8.apk",
-    "sha256":  "96298df0ba8b22bb3b07de05502abd0c87650fd2e8617da471c8b61234977644",
+    "version":  "1.17.9",
+    "versionCode":  46,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.9/chess4u-v1.17.9.apk",
+    "sha256":  "71c78efa58578ca75eb955e72aefa04d407554382784d6008d6d87f866e6aa64",
     "changelog":  [
                       "תיאור השינוי הראשון",
                       "תיאור השינוי השני"
                   ],
     "minimumSupportedVersion":  1,
-    "releaseDate":  "2026-11-16"
+    "releaseDate":  "2026-11-17"
 }
