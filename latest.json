@@ -1,11 +1,10 @@
 {
-    "version":  "1.17.9",
-    "versionCode":  46,
-    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.9/chess4u-v1.17.9.apk",
-    "sha256":  "71c78efa58578ca75eb955e72aefa04d407554382784d6008d6d87f866e6aa64",
+    "version":  "1.17.10",
+    "versionCode":  47,
+    "apkUrl":  "https://github.com/amit222221/chess4u-updates/releases/download/v1.17.10/chess4u-v1.17.10.apk",
+    "sha256":  "4189a84227522d81684a7c78202b8e05ef1d1e61846c0a1a23cd07d0cf5a72ce",
     "changelog":  [
-                      "תיאור השינוי הראשון",
-                      "תיאור השינוי השני"
+                      "CANCEL now asks ARE YOU SURE? (YES / NO) in every mode, so a slip no longer ends the game"
                   ],
     "minimumSupportedVersion":  1,
     "releaseDate":  "2026-11-17"
